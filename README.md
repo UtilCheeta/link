@@ -45,7 +45,7 @@ https://utilcheeta.win/count_str
 
 복리 계산기
 
-https://utilcheeta.win/compound/
+https://utilcheeta.win/compound
 
 <br />
 
